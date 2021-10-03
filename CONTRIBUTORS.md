@@ -142,3 +142,9 @@
  - Place: Kolkata, India
  - Bio: Bachelor's (CSE KiiT) Student 
  - Github: [tmahima] (https://github.com/tmahima)
+
+### Name: Piyush Kumar Singh
+ 
+ - Place: Rourkela, India
+ - Bio: Bachelor's (CSE KiiT) Student 
+ - Github: [Piyush4455] (https://github.com/Piyush4455)
